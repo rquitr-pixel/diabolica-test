@@ -1,32 +1,27 @@
-# Diabolica – wersja testowa v34
+# Diabolica – wersja testowa v35
 
-To publiczne repozytorium zawiera wyłącznie gotowy build Windows gry **Diabolica** (wersja v34) do testów.
+To publiczne repozytorium zawiera wyłącznie gotowy build Windows gry **Diabolica** (wersja v35) do testów.
 
 ## Jak uruchomić
 
-1. Pobierz plik `Diabolica_Win64_v34.zip` z [wydania v34](https://github.com/rquitr-pixel/diabolica-test/releases/tag/v34).
+1. Pobierz plik `Diabolica_Win64_v35.zip` z [wydania v35](https://github.com/rquitr-pixel/diabolica-test/releases/tag/v35).
 2. Rozpakuj archiwum.
 3. Uruchom `Diabolica/Diabolica.exe`.
 
 **Wymagania:** Windows 64-bit.
 
-## Co nowego w v34
+## Co nowego w v35
 
-Cztery nowe lochy - teraz jest ich 18. Każdy ma własną arenę, 15 fal (władcy na falach 5, 10 i 15), nowe potwory i jedną zbroję władcy.
+Płatnerz w wiosce sprzedaje teraz **pojedyncze części zbroi**: hełm, napierśnik, naramienniki, rękawice, nagolenniki i buty. Są w trzech materiałach (tkanina, skóra, metal) i trzech jakościach, na półkach Części I, II i III. Razem 54 części.
 
-- **Upiorny Port** (Przerażający): Kreel, Bosman Topielców · Morwenna, Syrena Zatoki · **Varrow, Upiorny Kapitan**. Zbroja: Kubrak Upiornej Bandery.
-- **Gniazdo Pajęczycy** (Koszmar): Orrik, Strażnik Kokonów · Seline, Siostra Jedwabiu · **Velnis, Matka Gniazda**. Zbroja: Jedwab Matki Gniazda.
-- **Smocze Cmentarzysko** (Koszmar): Sarth, Kapłanka Popiołu · Grael, Kościany Wiwern · **Vaskar, Pradawny Smok**. Zbroja: Łuska Prastarego Smoka.
-- **Kryształowe Głębiny** (Koszmar): Oran, Szlifierz Kryształów · Ilse, Pani Luster · **Iskarion, Serce Głębin**. Zbroja: Odzienie Kryształowych Głębin.
+> „Nie stać cię na całą zbroję? Weź choć porządny napierśnik. Lepsze to niż goła skóra.” – Płatnerz
 
-Nowe lochy pojawiają się w rotacji Runicznego Portalu (6 naraz).
-
-### Poprawki
-
-- Rzucone noże i sztylety wbite w ziemię znikają po 7 sekundach, mrugając w ostatniej sekundzie. Pas noży nadal odrasta sam, a sztylet techniki wraca do ręki.
-- Znaczniki ataków potworów i władców na lodowej arenie (i jasne znaczniki na jasnych arenach) mają teraz kolor purpurowo-pomarańczowy z ciemnym obrysem, więc nie zlewają się ze śniegiem.
-- Więcej złota: potwory i władcy zostawiają o 40% więcej złota w każdym lochu. Ceny u kupców wzrosły o 30%, więc na kolejny sprzęt zbierasz krócej niż dotąd. Kula Ognia I nadal kosztuje 500 G.
-- Szabla, kordelas, nóż i glewie: ostrze wychodzi teraz ze środka jelca, w osi rękojeści (ikona i broń w dłoni).
+- Część daje **tylko obronę**. Premie (życie, moc zaklęć, odporności) mają wyłącznie pełne zestawy.
+- Założona część zajmuje swoje miejsce na ciele. Reszta zestawu zostaje na tobie, ale rozbity zestaw traci premię. Gdy założysz zestaw z powrotem, wraca cały razem z premią.
+- Części są tańsze od zestawów. Sześć części jednej jakości kosztuje zawsze mniej niż najtańszy zestaw z krain tej samej grozy. Metal III to 5180 G, a zbroje władców Koszmaru zaczynają się od 7950 G.
+- Części I są dostępne od razu. Części II wymagają pokonania 2 różnych władców, a Części III pięciu.
+- Każdy kafelek pokazuje obronę, wagę i różnicę względem tego, co nosisz, np. „+12 do obecnego”. W opisie zobaczysz cały pancerz przed zmianą i po niej.
+- Nowe ikony części, w tej samej szczegółowości co bronie.
 
 ## Sterowanie
 
