@@ -1,27 +1,28 @@
-# Diabolica – wersja testowa v35
+# Diabolica – wersja testowa v36
 
-To publiczne repozytorium zawiera wyłącznie gotowy build Windows gry **Diabolica** (wersja v35) do testów.
+To publiczne repozytorium zawiera wyłącznie gotowy build Windows gry **Diabolica** (wersja v36) do testów.
 
 ## Jak uruchomić
 
-1. Pobierz plik `Diabolica_Win64_v35.zip` z [wydania v35](https://github.com/rquitr-pixel/diabolica-test/releases/tag/v35).
+1. Pobierz plik `Diabolica_Win64_v36.zip` z [wydania v36](https://github.com/rquitr-pixel/diabolica-test/releases/tag/v36).
 2. Rozpakuj archiwum.
 3. Uruchom `Diabolica/Diabolica.exe`.
 
 **Wymagania:** Windows 64-bit.
 
-## Co nowego w v35
+## Co nowego w v36
 
-Płatnerz w wiosce sprzedaje teraz **pojedyncze części zbroi**: hełm, napierśnik, naramienniki, rękawice, nagolenniki i buty. Są w trzech materiałach (tkanina, skóra, metal) i trzech jakościach, na półkach Części I, II i III. Razem 54 części.
+Płatnerz przekuł swoje części zbroi. Teraz każdy materiał ma własny charakter i od razu widać, kim chcesz być na szlaku.
 
-> „Nie stać cię na całą zbroję? Weź choć porządny napierśnik. Lepsze to niż goła skóra.” – Płatnerz
+> „Szata dla tego, kto ufa zaklęciom. Skóra dla tego, kto woli cień. Stal dla tego, kto staje w pierwszym szeregu. Wybieraj z głową.” – Płatnerz
 
-- Część daje **tylko obronę**. Premie (życie, moc zaklęć, odporności) mają wyłącznie pełne zestawy.
-- Założona część zajmuje swoje miejsce na ciele. Reszta zestawu zostaje na tobie, ale rozbity zestaw traci premię. Gdy założysz zestaw z powrotem, wraca cały razem z premią.
-- Części są tańsze od zestawów. Sześć części jednej jakości kosztuje zawsze mniej niż najtańszy zestaw z krain tej samej grozy. Metal III to 5180 G, a zbroje władców Koszmaru zaczynają się od 7950 G.
-- Części I są dostępne od razu. Części II wymagają pokonania 2 różnych władców, a Części III pięciu.
-- Każdy kafelek pokazuje obronę, wagę i różnicę względem tego, co nosisz, np. „+12 do obecnego”. W opisie zobaczysz cały pancerz przed zmianą i po niej.
-- Nowe ikony części, w tej samej szczegółowości co bronie.
+- **Tkanina to czarodziej.** Niebieska szata i spiczasty kapelusz. Na poziomie II królewski błękit, złote obszycie, gwiazdy i szarfa. Na poziomie III fiolet arkanów, klejnot, wysoki kołnierz i większy kapelusz.
+- **Skóra to łotr.** Skórzana kurta i czapka. Na poziomie II ciemniejsza skóra, kaptur, pasy na krzyż i pochwa sztyletu. Na poziomie III czarny kaptur, czerwona maska na twarzy i złote sprzączki.
+- **Metal to rycerz.** Kolczuga, kapalin z kitą i czerwona peleryna. Na poziomie II blacha na kolczudze i osłony policzków. Na poziomie III pełna płyta ze złotem, wielkie naramienniki i hełm z koroną i pióropuszem.
+- Każda część jest widoczna na postaci, także naramienniki, które mają teraz własne miejsce. Części różnych klas możesz łączyć i wszystkie leżą na sobie porządnie.
+- Napierśnik przynosi pelerynę swojej klasy: czarodziej pelerynkę, łotr płaszcz, rycerz czerwoną pelerynę. Bez napierśnika wraca twoja zwykła czerwona peleryna.
+- Części z tkaniny noszą teraz nazwy czarodziejskie: Kapelusz, Szata, Mantolet, Rękawiczki, Nogawice i Trzewiki czarodzieja.
+- Nowe ikony wszystkich 54 części, dopasowane do klas i poziomów.
 
 ## Sterowanie
 
