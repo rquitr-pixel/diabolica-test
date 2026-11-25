@@ -1,29 +1,31 @@
-# Diabolica – wersja testowa v36
+# Diabolica – wersja testowa v37
 
-To publiczne repozytorium zawiera wyłącznie gotowy build Windows gry **Diabolica** (wersja v36) do testów.
+To publiczne repozytorium zawiera wyłącznie gotowy build Windows gry **Diabolica** (wersja v37) do testów.
 
 ## Jak uruchomić
 
-1. Pobierz plik `Diabolica_Win64_v36.zip` z [wydania v36](https://github.com/rquitr-pixel/diabolica-test/releases/tag/v36).
+1. Pobierz plik `Diabolica_Win64_v37.zip` z [wydania v37](https://github.com/rquitr-pixel/diabolica-test/releases/tag/v37).
 2. Rozpakuj archiwum.
 3. Uruchom `Diabolica/Diabolica.exe`.
 
 **Wymagania:** Windows 64-bit.
 
-## Co nowego w v36
+## Co nowego w v37
 
-Płatnerz przekuł swoje części zbroi. Teraz każdy materiał ma własny charakter i od razu widać, kim chcesz być na szlaku.
+Zanim zejdziesz do lochu, możesz wreszcie spokojnie przejrzeć swój ekwipunek. W wiosce wciśnij **C**, a otworzy się Ekran Postaci.
 
-> „Szata dla tego, kto ufa zaklęciom. Skóra dla tego, kto woli cień. Stal dla tego, kto staje w pierwszym szeregu. Wybieraj z głową.” – Płatnerz
+> „Do lochu bierzesz to, co masz na grzbiecie, i dwie bronie u pasa. Resztę zostaw w skrzyni.” – stary strażnik bramy
 
-- **Tkanina to czarodziej.** Niebieska szata i spiczasty kapelusz. Na poziomie II królewski błękit, złote obszycie, gwiazdy i szarfa. Na poziomie III fiolet arkanów, klejnot, wysoki kołnierz i większy kapelusz.
-- **Skóra to łotr.** Skórzana kurta i czapka. Na poziomie II ciemniejsza skóra, kaptur, pasy na krzyż i pochwa sztyletu. Na poziomie III czarny kaptur, czerwona maska na twarzy i złote sprzączki.
-- **Metal to rycerz.** Kolczuga, kapalin z kitą i czerwona peleryna. Na poziomie II blacha na kolczudze i osłony policzków. Na poziomie III pełna płyta ze złotem, wielkie naramienniki i hełm z koroną i pióropuszem.
-- Każda część jest widoczna na postaci, także naramienniki, które mają teraz własne miejsce. Części różnych klas możesz łączyć i wszystkie leżą na sobie porządnie.
-- Napierśnik przynosi pelerynę swojej klasy: czarodziej pelerynkę, łotr płaszcz, rycerz czerwoną pelerynę. Bez napierśnika wraca twoja zwykła czerwona peleryna.
-- Części z tkaniny noszą teraz nazwy czarodziejskie: Kapelusz, Szata, Mantolet, Rękawiczki, Nogawice i Trzewiki czarodzieja.
-- Nowe ikony wszystkich 54 części, dopasowane do klas i poziomów.
+- **Ekran Postaci (C w wiosce).** Widzisz na nim swoją postać w tym, co ma na sobie. Możesz ją obracać strzałkami albo A / D, a po najechaniu myszą rusza z miejsca. Obok są prawdziwe liczby: życie, mana, atrybuty, obrażenia, pancerz, odporności, moc zaklęć, szybkość, waga i przewroty.
+- **Sloty.** Jest 8 miejsc na zbroję, 2 na broń (zestaw A i B) i 3 na talizmany. Po najechaniu myszą pojawia się opis. LPM zakłada kolejną rzecz ze skrzyni, PPM zdejmuje.
+- **Talizmany trzeba nosić.** Pierścień, amulet i talizman działają tylko wtedy, gdy są założone. Te, które już masz, od razu są założone.
+- **Trzy zestawy z własnymi nazwami.** Każdy pamięta zbroję i części, obie bronie z tą w ręku, rodzaj strzał i bełtów oraz talizmany. Nazwę (do 16 znaków) nadajesz sam. Zestawy zakładasz i zapisujesz tylko w wiosce. Jeśli czegoś już nie masz, zestaw pominie tę rzecz i powie, czego brakuje.
+- **Dwie bronie w lochu.** Do lochu bierzesz tylko zestaw A i B. **R** przełącza je w walce. Gdy zestaw B jest pusty, usłyszysz: „Drugi zestaw jest pusty. Przygotuj go w wiosce.” Klawisz X jest wolny.
+- **Zbroję zmieniasz w wiosce.** Klawisze 1 / 2 / 3 nie przebierają już postaci w lochu.
+- **Nowy, niski pasek na dole ekranu.** Rząd ikon zbroi zniknął, zostały zestawy broni, kołczan, techniki i mikstury. Licznik fal stoi teraz w lewym górnym rogu obok sakiewki.
+- **Kula ognia zadaje teraz 32 obrażenia** i odnawia się 12 sekund.
+- **Pierwsza różdżka czarodzieja zadaje 5 obrażeń zamiast 7.**
 
 ## Sterowanie
 
-WASD ruch · LPM cios / strzał / rzut · PPM lub Q kula ognia · Z / V techniki broni · Spacja lub E przewrót · R broń · X zestaw broni · C amunicja · F / G mikstury · 1 / 2 / 3 zbroja · Tab statystyki · M muzyka · - / + głośność · Esc pauza
+WASD ruch · LPM cios / strzał / rzut · PPM lub Q kula ognia · Z / V techniki broni · Spacja lub E przewrót · R zestaw broni (A / B) · C amunicja w lochu, Ekran Postaci w wiosce · F / G mikstury · Tab statystyki · M muzyka · - / + głośność · Esc pauza
